@@ -11,6 +11,6 @@ function findMinAndRemove(array){
   return min
 }
 
-function insertionSort(array){
+function insertionSort(array) {
   
 }
